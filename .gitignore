@@ -1,0 +1,9 @@
+z-*
+*.swp
+*.elc
+
+## default:
+*~
+.DS_Store
+.\#*
+\#*\#
